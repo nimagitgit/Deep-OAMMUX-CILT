@@ -1,0 +1,9 @@
+Copyright (c) 2024 Nima Asoudegi
+
+All rights reserved.
+
+This repository is provided for transparency and reference purposes only.
+
+You may not use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code or any part thereof without explicit written permission from the copyright holder.
+
+For inquiries, please contact: n.asoudegi@gmail.com

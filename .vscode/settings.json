@@ -1,0 +1,8 @@
+{
+  "//": "Setting external SDK paths for Pylance",
+  "python.analysis.extraPaths": [
+    "C:/Users/nima_/My Drive/Python/external_lib/Thorlab",
+    "C:/Program Files/HOLOEYE Photonics/SLM Display SDK (Python) v3.2.0/python",
+    "C:/Program Files/HOLOEYE Photonics/SLM Display SDK (Python) v4.0.0/api/python"
+]
+}
